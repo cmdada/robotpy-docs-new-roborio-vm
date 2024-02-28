@@ -36,7 +36,7 @@ even if they aren’t writing their robot code in python:
 * `pynetworktables <https://github.com/robotpy/pynetworktables>`_: legacy NetworkTables implementation that you can use to communcate with SmartDashboard and/or your robot.
 * :ref:`robotpy-cscore <robotpy:cscore_api>`: Python bindings for cscore, a powerful camera/streaming library
 * :ref:`robotpy-apriltag <robotpy:robotpy_apriltag_api>`: Python bindings for the WPILib apriltag library
-* `roborio-vm <https://github.com/robotpy/roborio-vm>`_: Scripts to create a QEMU virtual machine from the RoboRIO image file
+* `roborio-vm <https://github.com/TotalTaxAmount/roborio-vm>`_: Scripts to create a QEMU virtual machine from the RoboRIO image file
 
 We are in the process of migrating much of our documentation to the :doc:`WPILib documentation site <frc:index>`.
 
